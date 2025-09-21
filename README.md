@@ -31,8 +31,13 @@ All mechanical parts were **3D-printed and designed from scratch**, and the cont
 - Real-time multiprocessing processes pinned to CPU cores using `os.sched_setaffinity`  
 - Uses shared memory for fast inter-process communication
 
+
 <video src="demo/inverted_pendulum_demo.mp4" controls width="720" muted playsinline>
   Sorry, your browser doesn't support embedded videos. 
   Here is a <a href="demo/inverted_pendulum_demo.mp4">link to the video</a> instead.
 </video>
+
+
+
+
 [▶ Watch the demo video](demo/inverted_pendulum_demo.mp4)  
