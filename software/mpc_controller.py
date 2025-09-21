@@ -5,6 +5,7 @@ import casadi as ca
 from acados_template import AcadosOcp, AcadosModel, AcadosOcpSolver
 from scipy.linalg import solve_continuous_are
 from multiprocessing import shared_memory
+import signal
 
 from .config import CORE_CONTROLLER, SHM_NAME, NUM_SENSORS, ANGLE2DIS
 from .utils import set_realtime, graceful_shutdown
