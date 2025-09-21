@@ -30,3 +30,6 @@ All mechanical parts were **3D-printed and designed from scratch**, and the cont
 - All interaction through **SSH and terminal** (no desktop environment)  
 - Real-time multiprocessing processes pinned to CPU cores using `os.sched_setaffinity`  
 - Uses shared memory for fast inter-process communication
+
+
+[▶ Watch the demo video](demo/inverted_pendulum_demo.mp4)  
