@@ -34,4 +34,4 @@ All mechanical parts were **3D-printed and designed from scratch**, and the cont
 ![Inverted pendulum demo](demo/inverted_pendulum_demo.gif)
 
 
-[▶ Watch the demo video](demo/inverted_pendulum_demo.mp4)  
+[▶ Watch the demo video](https://youtu.be/Ha9vbFEaoPo)  
